@@ -16,9 +16,6 @@ for k in range(5, -1, -1):
         print(f"Dommage ! Le nombre mystère était {nombre_mystère}")
         print("Fin du jeu.")
         break
-    
-
-
         
 # L'affichage du jeu 
     print(f"Il te reste {k} essais")
