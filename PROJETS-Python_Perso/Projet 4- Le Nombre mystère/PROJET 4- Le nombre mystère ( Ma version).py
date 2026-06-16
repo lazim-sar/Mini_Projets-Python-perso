@@ -9,7 +9,7 @@ print("*** Le jeu du nombre mystère ***")
 for k in range(5, -1, -1):
 # Le premier argument (5) est la valeur de départ.
 # Le second argument (-1) indique jusqu'où aller (exclu de la séquence).
-# Le troisième argument (-1) indique que tu veux descendre par pas de -1 (décroissant).
+# Le troisième argument (-1) indique qu'on veut descendre par pas de -1 (décroissant).
     
     # Vérification si les essais sont épuisés avant de demander un nouveau nombre
     if k==0:
