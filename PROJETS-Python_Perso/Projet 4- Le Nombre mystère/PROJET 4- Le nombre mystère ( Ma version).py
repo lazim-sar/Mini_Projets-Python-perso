@@ -33,14 +33,6 @@ for k in range(5, -1, -1):
             print(f"Il te reste {k} essais")
             # Ne pas diminuer k, simplement redemander la saisie
 
-        # Mon erreur ( ce que j'avais fait inialement):
-        ## Tentative de saisie du nombre par l'utilisateur
-    #try:
-        #nombre_choisi = int(input("Devine le nombre : "))
-    #except ValueError:
-        #print("Veuillez entrer un nombre valide.")
-        #continue  
-
     if nombre_choisi < nombre_mystère :
         print(f"Le nombre mystère est plus grand que {nombre_choisi}")
     elif nombre_choisi> nombre_mystère:
