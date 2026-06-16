@@ -1,6 +1,6 @@
-# 🐍 Projets Python — Développement Personnel
+# 🐍 MINI Projets Python — Développement Personnel
 
-Ensemble de projets Python réalisés en autonomie entre 2024 et 2026 durant le lycée,
+Ensemble de petits projets Python réalisés en autonomie entre 2024 et 2026 durant le lycée,
 dans une démarche d'apprentissage autodidacte. 
 Juste pour préciser, je n'avais pas NSI comme spécialités donc j'ai appris les bases de Python de moi même d'où la raison de ces différents projets.
 CES PROJETS SONT SPECIALEMENT FAITS POUR LE TERMINAL. Il n'y a pas de versions graphiques encore car je voulais juste m'entrainer sur la logique, le raisonnement et la construction des différents programmes.
